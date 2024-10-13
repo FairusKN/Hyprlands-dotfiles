@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/fairus/wallpapers/Hypr-chan.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101010",
+        "foreground": "#dedeef",
+        "cursor": "#dedeef"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#55679F",
+        "color2": "#619E9D",
+        "color3": "#3FA5D2",
+        "color4": "#BDB4BA",
+        "color5": "#A9E1D3",
+        "color6": "#E7DFD5",
+        "color7": "#dedeef",
+        "color8": "#9b9ba7",
+        "color9": "#55679F",
+        "color10": "#619E9D",
+        "color11": "#3FA5D2",
+        "color12": "#BDB4BA",
+        "color13": "#A9E1D3",
+        "color14": "#E7DFD5",
+        "color15": "#dedeef"
+    }
+}

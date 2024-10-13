@@ -1,0 +1,35 @@
+[33mcommit 3f74a026666fb61ba043d21bcc095ff668f47def[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: FairusKN <kamalnapidfairus@gmail.com>
+Date:   Sun Oct 13 14:09:29 2024 +0700
+
+    Edit README.md , add kitty.conf, add screenshots
+
+[33mcommit ba702b8cbc2ea3e1827b4b26358ba993b5355729[m
+Author: FairusKN <kamalnapidfairus@gmail.com>
+Date:   Sun Oct 13 13:59:24 2024 +0700
+
+    Removed old ryo_dotfile directory
+
+[33mcommit bc93b0fa21a00be34712282d86e5f9ddc13e4dc9[m
+Author: FairusKN <kamalnapidfairus@gmail.com>
+Date:   Sun Oct 13 13:58:16 2024 +0700
+
+    Added README file for FirstDotfiles
+
+[33mcommit 835e4cc8576132803e35b2033d1920101ad3bea8[m
+Author: FairusKN <kamalnapidfairus@gmail.com>
+Date:   Sun Oct 13 13:51:15 2024 +0700
+
+    Moved configuration folders into ryo_dotfile directory for better organization
+
+[33mcommit 716a8f4f88b3035604e950025be4eb148543dfec[m
+Author: FairusKN <kamalnapidfairus@gmail.com>
+Date:   Sun Oct 13 13:29:42 2024 +0700
+
+    First Hyprland config
+
+[33mcommit 329f149765e770751051246d5961f01b824fa458[m
+Author: Fairus <134921576+FairusKN@users.noreply.github.com>
+Date:   Sun Oct 13 13:38:31 2024 +0700
+
+    Initial commit
