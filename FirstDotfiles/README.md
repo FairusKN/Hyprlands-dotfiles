@@ -9,6 +9,9 @@
 <br>
 </div>
 
+## Notice
+Some configuration is for laptop, you may change it first before replace the config.
+
 ## Origin dotfiles
 This dotfiles i got from [here](https://github.com/retrozinndev/Hyprland-Dots)
 
