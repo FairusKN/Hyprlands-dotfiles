@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/fairus/wallpapers/Bocchi Pink.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#7b2448",
+        "foreground": "#f4e0eb",
+        "cursor": "#f4e0eb"
+    },
+    "colors": {
+        "color0": "#7b2448",
+        "color1": "#FAE0B9",
+        "color2": "#F793C8",
+        "color3": "#FEB9D0",
+        "color4": "#F6B3DF",
+        "color5": "#FFC9D6",
+        "color6": "#F9E4D8",
+        "color7": "#f4e0eb",
+        "color8": "#aa9ca4",
+        "color9": "#FAE0B9",
+        "color10": "#F793C8",
+        "color11": "#FEB9D0",
+        "color12": "#F6B3DF",
+        "color13": "#FFC9D6",
+        "color14": "#F9E4D8",
+        "color15": "#f4e0eb"
+    }
+}
