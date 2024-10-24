@@ -6,6 +6,7 @@ My customized Hyprland configuration that I use everyday!
  <img width=48% src="repo/b.png">
  <img width=48% src="repo/a.png">
 </div>
+</div>
 <br>
 
 ## 🎨 Colors
