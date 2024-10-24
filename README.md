@@ -10,7 +10,7 @@ My customized Hyprland configuration that I use everyday!
 <br>
 
 ## Installation
-You'll need to have installed all needed packages before installing my dotfiles! Use your package manager to do so. See needed packages on [My wiki](https://github.com/FairusKN/Hyprlands-dotfiles/wiki/Home/_edit).
+You'll need to have installed all needed packages before installing my dotfiles! Use your package manager to do so. See needed packages on [My wiki](https://github.com/FairusKN/Hyprlands-dotfiles/wiki).
 
 In order to install this style right away, just run this installation script:
 
