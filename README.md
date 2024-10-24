@@ -9,18 +9,10 @@ My customized Hyprland configuration that I use everyday!
 </div>
 <br>
 
-## 🎨 Colors
-All the colors are dynamically based on the current wallpaper! This is possible by using [pywal], a cli tool to generate colorschemes by using an image as a base.
-
-## 🖼️ Wallpapers
-When you're at the [Installation] process, you can choose to copy my dotfiles' wallpapers folder. If you chose to copy, you can change the current wallpaper by pressing <kbd>SUPER</kbd> + <kbd>W</kbd>, or clicking to change wallpaper in the Control Center.
-
 ## Installation
-You'll need to have installed all needed packages before installing my dotfiles! Use your package manager to do so. See needed packages on [`Wiki/Dependencies`].
+You'll need to have installed all needed packages before installing my dotfiles! Use your package manager to do so. See needed packages on [My wiki](https://github.com/FairusKN/Hyprlands-dotfiles/wiki/Home/_edit).
 
 In order to install this style right away, just run this installation script:
-
-> ℹ️ Notice: the installation script will make a backup folder containing all previous files in `~/hyprland-dots-bkp`.
 
 > 💡 Tip: Note the `$` character means that it's recommended to run this command without root privileges.
 
@@ -30,3 +22,5 @@ In order to install this style right away, just run this installation script:
 
 ## Origin Dotfiles
 https://github.com/retrozinndev/Hyprland-Dots.git
+
+It's basically the same but i change it a little and because i want my configuration is on github lol.
