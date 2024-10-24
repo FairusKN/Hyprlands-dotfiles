@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/fairus/wallpapers/Arch Linux Miku.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#221f25",
+        "foreground": "#e7e7e1",
+        "cursor": "#e7e7e1"
+    },
+    "colors": {
+        "color0": "#221f25",
+        "color1": "#4AAEB4",
+        "color2": "#61A2A9",
+        "color3": "#5FA5CD",
+        "color4": "#63CDCC",
+        "color5": "#ADB7B1",
+        "color6": "#95E7D9",
+        "color7": "#e7e7e1",
+        "color8": "#a1a19d",
+        "color9": "#4AAEB4",
+        "color10": "#61A2A9",
+        "color11": "#5FA5CD",
+        "color12": "#63CDCC",
+        "color13": "#ADB7B1",
+        "color14": "#95E7D9",
+        "color15": "#e7e7e1"
+    }
+}
